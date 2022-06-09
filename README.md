@@ -24,6 +24,7 @@ I made this project during my last year of my programming graduate. The goal of 
 * Certificates
 * Skills
 * Contact
+* Responsive
 
 </br>
 
@@ -33,3 +34,31 @@ I made this project during my last year of my programming graduate. The goal of 
 </br>
 
 # Pictures
+
+HOME            
+:-------------------------:
+![](img/home_page.png)  
+
+SOFT SKILLS            
+:-------------------------:
+![](img/soft_skills.png)  
+
+PROJECTS            
+:-------------------------:
+![](img/projects.png)  
+
+EXPERIENCE            
+:-------------------------:
+![](img/experience.png)  
+
+CERTIFICATES            
+:-------------------------:
+![](img/certificates.png)  
+
+SKILLS            
+:-------------------------:
+![](img/skills.png)  
+
+CONTACT            
+:-------------------------:
+![](img/contact.png)  
