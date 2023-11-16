@@ -29,7 +29,7 @@ I made this project during my last year of my programming graduate. The goal of 
 </br>
 
 # Demo
-* Watch my live [demo here](https://kendra.sinners.be/) 
+* Watch my live [demo here](https://vansaetkendra.sinners.be/) 
 
 </br>
 
